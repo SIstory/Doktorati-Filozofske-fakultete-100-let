@@ -190,15 +190,19 @@
    <xsl:param name="numberParagraphs"/>
    <xsl:param name="numberTables"/>
 
+
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Novo ime za glavno vsebino (glavna navigacija)</desc>
-      <param name="thisLanguage"/>
+      <param name="thisLanguage"></param>
    </doc>
    <xsl:template name="nav-body-head">
       <xsl:param name="thisLanguage"/>
-      <xsl:text>Razstava</xsl:text>
+      <xsl:choose>
+         <xsl:when test="$thisLanguage = 'en'">Exhibition</xsl:when>
+         <xsl:otherwise>Razstava</xsl:otherwise>
+      </xsl:choose>
    </xsl:template>
-
+   
    <doc xmlns="http://www.oxygenxml.com/ns/doc/xsl">
       <desc>Ne procesiram štetja besed v kolofonu</desc>
    </doc>
