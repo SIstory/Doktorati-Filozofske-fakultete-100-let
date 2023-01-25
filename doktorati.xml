@@ -260,13 +260,13 @@
                   also be found among the folders, as indicated by Grance Veber's negative grade
                   from 1923.</head>
                <graphic url="1_3-normal.jpg"/>
-            </figure>
+            </figure><!--
             <figure xml:id="figure-11" rend="imageviewer">
                <graphic url="1_3a-normal.jpg"/>
             </figure>
             <figure xml:id="figure-11a" rend="imageviewer">
                <graphic url="1_3b-normal.jpg"/>
-            </figure>
+            </figure>-->
             <figure xml:id="figure-12" rend="imageviewer">
                <head> Each Ph.D. candidate who has successfully passed the defense must attend the
                   ceremony at which the Rector or Vice-Rector promotes them to the title. In
@@ -274,7 +274,7 @@
                   University of Ljubljana. Images show the 1920 protocol with Ana Mayer as the first
                   signed and the current 2019 protocol.</head>
                <graphic url="1_4-normal.jpg"/>
-            </figure>
+            </figure><!--
             <figure xml:id="figure-13" rend="imageviewer">
                <graphic url="1_4a-normal.jpg"/>
             </figure>
@@ -283,7 +283,7 @@
             </figure>
             <figure xml:id="figure-14a" rend="imageviewer">
                <graphic url="1_4c-normal.jpg"/>
-            </figure>
+            </figure>-->
          </div>
          <div type="chapter" xml:id="ch2" xml:lang="sl" corresp="#ch2-en">
             <head xml:id="head-18">Doktorati : 100 let. Oster in potreben inštrument družbe</head>
