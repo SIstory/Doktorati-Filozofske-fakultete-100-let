@@ -44,7 +44,7 @@
    <xsl:param name="outputDir">docs/</xsl:param>
 
    <xsl:param name="homeLabel">Domov</xsl:param>
-   <xsl:param name="homeURL"/>
+   <xsl:param name="homeURL">https://sistory.github.io/Doktorati-Filozofske-fakultete-100-let/</xsl:param>
 
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/my-html_param.xsl -->
    <xsl:param name="title-bar-sticky">false</xsl:param>
