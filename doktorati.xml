@@ -4,6 +4,8 @@
       <fileDesc>
          <titleStmt>
             <title xml:lang="sl">Doktorati : 100 let. Oster in potreben inštrument družbe</title>
+            <title xml:lang="en">Doctorates: 100 years. A sharp and necessary instrument of society
+            </title>
             <respStmt>
                <resp>Avtorji razstave</resp>
                <name>dr. Božo Repe</name>
@@ -35,7 +37,8 @@
             </respStmt>
             <funder>Razstava je nastala v okviru nacionalnega raziskovalnega programa Slovenska
                zgodovina, ki se izvaja na Oddelku za zgodovino Filozofske fakultete Univerze v
-               Ljubljani.</funder>
+               Ljubljani.            
+            </funder>
          </titleStmt>
          <editionStmt>
             <edition>Edicija 1.0</edition>
@@ -91,15 +94,15 @@
    <text>
       <front>
          <titlePage>
-            <docTitle>
-               <titlePart type="main" xml:lang="sl">Doktorati : 100 let.</titlePart>
-               <titlePart type="sub" xml:lang="sl">Oster in potreben inštrument družbe</titlePart>
-               <!--
-               <titlePart xml:lang="en">Doktorati : 100 let. Oster in potreben inštrument
-                        družbe</titlePart>-->
+            <docTitle>     
+               <titlePart type="main"  xml:lang="en">Doctorates: 100 years</titlePart>
+               <titlePart type="sub"  xml:lang="en">A sharp and necessary instrument of society</titlePart>
+               <titlePart type="main" xml:lang="sl">Doktorati : 100 let</titlePart>
+               <titlePart type="sub" xml:lang="sl">Oster in potreben inštrument družbe</titlePart>          
             </docTitle>
             <docAuthor/>
             <graphic url="1_1-normal.jpg"/>
+            <graphic url="Znak.jpg"/>
             <docDate/>
             <docImprint>
                <publisher>Inštitut za novejšo zgodovino / Institute of Contemporary
@@ -135,7 +138,7 @@
       </front>
       <body>
          <div type="chapter" xml:id="ch1" xml:lang="sl" corresp="#ch1-en">
-            <head xml:id="head-8">Doktorati : 100 let. Oster in potreben inštrument družbe</head>
+            <head xml:id="head-8">Doktorati : 100 let <lb/>Oster in potreben inštrument družbe</head>
             <p xml:id="p-4" style="text-align:justify;">Univerza v Ljubljani je prva visokošolska
                institucija na slovenskem ozemlju. Pred tem so Slovenci študirali pretežno na
                avstrijskih, pa tudi čeških, madžarskih in severnoitalijanskih univerzah. Po razpadu
@@ -173,7 +176,7 @@
                <head>Leta 1961 se je Filozofska fakulteta preselila v novo stavbo na Aškerčevi
                   cesti, kjer deluje še danes. V osemdesetih letih je bila nadzidana s 5.
                   nadstropjem, v devetdesetih letih pa je bila povezana še s priključkom obnovljenih
-                  drvarnic in graž.</head>
+                  drvarnic in garaž.</head>
                <graphic url="1_2-normal.jpg"/>
             </figure>
             <figure xml:id="figure-3" rend="imageviewer">
@@ -193,7 +196,7 @@
             </figure>-->
             <figure xml:id="figure-5" rend="imageviewer">
                <head>Vsak kandidat za doktorja znanosti, ki je uspešno opravil zagovor, se mora za
-                  polni prevzem naslova udeležiti slovesnosti na kateri ga rektor ali prorektor
+                  polni prevzem naslova udeležiti slovesnosti, na kateri ga rektor ali prorektor
                   promovira v naziv. Ob tem se novoimenovani doktor podpiše tudi v protokol
                   doktorjev Univerze v Ljubljani. Na slikah protokol iz leta 1920, kjer je kot prva
                   vpisana Ana Mayer, in zadnji iz leta 2019.</head>
@@ -211,7 +214,9 @@
             </figure>-->
          </div>
          <div type="chapter" xml:id="ch1-en" xml:lang="en" corresp="#ch1">
-            <head xml:id="head-13">Doktorati : 100 let. Oster in potreben inštrument družbe</head>
+            <head xml:id="head-13">Doctorates: 100 years <lb/>
+               A sharp and necessary instrument of society
+            </head>
             <p xml:id="p-7" style="text-align:justify;">The University of Ljubljana is the first
                higher education institution on the Slovenian territory. Prior to its founding,
                Slovenians mostly studied at Austrian, Czech, Hungarian and North Italian
@@ -285,7 +290,7 @@
             </figure>-->
          </div>
          <div type="chapter" xml:id="ch2" xml:lang="sl" corresp="#ch2-en">
-            <head xml:id="head-18">Doktorati : 100 let. Oster in potreben inštrument družbe</head>
+            <head xml:id="head-18">Doktorati : 100 let <lb/>Oster in potreben inštrument družbe</head>
             <lb/>
             <p rend="bold" style="text-align:center;">JOSIP PLEMELJ, prvi rektor Univerze v
                Ljubljani (1919/1920)</p>
@@ -294,7 +299,7 @@
                matematiko je najprej predaval na univerzi v Černovicah (Ukrajina), od 1918 do 1957
                pa na ljubljanski Filozofski (kasneje Naravoslovni) fakulteti. Raziskovalno se je
                posvečal diferencialnim in integralskim enačbam ter funkcijski teoriji. Rezultati
-               raziskovanj, med njimi tudi Plemljeva formula, se ga uvrstili med prve sodobne
+               raziskovanj, med njimi tudi Plemljeva formula, so ga uvrstili med prve sodobne
                slovenske matematike.</p>
             <p rend="box" xml:id="p-11" style="text-align:justify;">Že prvi rektor Univerze v
                Ljubljani, matematik dr. Josip Plemelj, je bil močno predan tudi raziskavam.
@@ -310,8 +315,8 @@
             <p xml:id="p-12" style="text-align:justify;">
                <lb/> Leta 1901 je na Dunaju doktoriral iz slovanske filologije. Aktivno je sodeloval
                pri ustanovitvi Univerze v Ljubljani, kjer je nato na Filozofski fakulteti predaval
-               slovansko filologijo in primerjalno gramatiko slovanskih jezikov. To področje bilo
-               tudi jedro njegovega raziskovalnega dela. Že 1938 je postal redni član SAZU in tudi
+               slovansko filologijo in primerjalno gramatiko slovanskih jezikov. To področje je bilo
+               tudi jedro njegovega raziskovalnega dela. Že leta 1938 je postal redni član SAZU in tudi
                njen prvi predsednik. </p>
             <figure xml:id="figure-16" rend="imageviewer">
                <head>RAJKO NAHTIGAL, prvi dekan Filozofske fakultete Univerze v Ljubljani
@@ -319,24 +324,24 @@
                <graphic url="2_2-normal.jpg"/>
             </figure>
             <p rend="bold" style="text-align:center;">IGOR PAPIČ, rektor Univerze v Ljubljani
-               (2017–)</p>
+               (2017–2021)</p>
             <p xml:id="p-13" style="text-align:justify;">
                <lb/> Na Fakulteti za elektrotehniko Univerze v Ljubljani je doktoriral leta 1998. Na
                isti fakulteti je zaposlen kot redni profesor in predstojnik Laboratorija za
                električna omrežja in naprave. Njegovo raziskovalno področje so elektroenergetski
                sistemi in pametna omrežja.</p>
             <figure xml:id="figure-17" rend="imageviewer">
-               <head>IGOR PAPIČ, rektor Univerze v Ljubljani (2017–)</head>
+               <head>IGOR PAPIČ, rektor Univerze v Ljubljani (2017–2021)</head>
                <graphic url="2_3-normal.jpg"/>
             </figure>
             <p rend="bold" style="text-align:center;">ROMAN KUHAR, dekan Filozofske fakultete
-               Univerze v Ljubljani (2017–)</p>
+               Univerze v Ljubljani (2017–2021)</p>
             <p xml:id="p-14" style="text-align:justify;"> Leta 2005 je doktoriral na Fakultet za
                družbene vede v Ljubljani. Je redni profesor na Oddelku za sociologijo Filozofske
                fakultete. Njegovo pedagoško in raziskovalno delo je usmerjeno v sociologijo spola in
                vsakdanjega življenja, popularne kulture ter gejevske in lezbične študije.</p>
             <figure xml:id="figure-18" rend="imageviewer">
-               <head>ROMAN KUHAR, dekan Filozofske fakultete Univerze v Ljubljani (2017–)</head>
+               <head>ROMAN KUHAR, dekan Filozofske fakultete Univerze v Ljubljani (2017–2021)</head>
                <graphic url="2_4-normal.jpg"/>
             </figure>
             <p rend="box" xml:id="p-15" style="text-align:justify;">Za družbo, v kateri živimo, je
@@ -354,7 +359,10 @@
             </figure>
          </div>
          <div type="chapter" xml:id="ch2-en" xml:lang="en" corresp="#ch2">
-            <head xml:id="head-23">Doktorati : 100 let. Oster in potreben inštrument družbe</head>
+            <head xml:id="head-23">
+               Doctorates: 100 years <lb/> 
+                  A sharp and necessary instrument of society
+               </head>
             <lb/>
             <p rend="bold" style="text-align:center;">JOSIP PLEMELJ, First Rector of the University
                of Ljubljana (1919/1920):</p>
@@ -388,24 +396,24 @@
                <graphic url="2_2-normal.jpg"/>
             </figure>
             <p rend="bold" style="text-align:center;">IGOR PAPIČ, Rector of the University of
-               Ljubljana (2017–):</p>
+               Ljubljana (2017–2021):</p>
             <p xml:id="p-20" style="text-align:justify;"> He received his doctorate from the Faculty
                of Electrical Engineering at the University of Ljubljana in 1998. He is employed at
                the same faculty as a full professor and head of the Laboratory for Electrical
                Networks and Devices. His research area is power systems and smart grids.</p>
             <figure xml:id="figure-21" rend="imageviewer">
-               <head>IGOR PAPIČ, Rector of the University of Ljubljana (2017–)</head>
+               <head>IGOR PAPIČ, Rector of the University of Ljubljana (2017–2021)</head>
                <graphic url="2_3-normal.jpg"/>
             </figure>
             <p rend="bold" style="text-align:center;">ROMAN KUHAR, Dean of the Faculty of Arts in
-               Ljubljana (2017–):</p>
+               Ljubljana (2017–2021):</p>
             <p xml:id="p-21" style="text-align:justify;">In 2005, he received his Ph.D. from the
                Faculty of Social Sciences in Ljubljana. He is a full professor at the Sociology
                Department of the Faculty of Arts. His pedagogical and research work is focused on
                the sociology of gender and everyday life, popular culture, and gay and lesbian
                studies.</p>
             <figure xml:id="figure-22" rend="imageviewer">
-               <head>ROMAN KUHAR, Dean of the Faculty of Arts in Ljubljana (2017–)</head>
+               <head>ROMAN KUHAR, Dean of the Faculty of Arts in Ljubljana (2017–2021)</head>
                <graphic url="2_4-normal.jpg"/>
             </figure>
             <p rend="box" xml:id="p-22" style="text-align:justify;">For the society we live in, the
@@ -431,8 +439,7 @@
                zaključila v Ljubljani kot prva doktorantka novoustanovljene slovenske univerze. Že
                pred zagovorom doktorata je skupaj s svojim mentorjem Maksom Samcem v ugledni
                znanstveni reviji Kolloidchemische Beihefte v Dresdnu objavila daljšo znanstveno
-               razpravo, ki velja za prvo znanstveno objavo kemijskega oddelka Filozofsko-
-               naravoslovne fakultete. Akademsko in raziskovalno kariero je leta 1922 po nesporazumu
+               razpravo, ki velja za prvo znanstveno objavo kemijskega oddelka Filozofsko-naravoslovne fakultete. Akademsko in raziskovalno kariero je leta 1922 po nesporazumu
                z mentorjem z odstopno izjavo prekinila in se usmerila v podjetniške vode. Ustanovila
                je podjetje Dr. A. Kansky - kemična tvornica, kasneje sta z možem postavila kemično
                tovarno v Podgradu pri Ljubljani, prvo te vrste v takratni Jugoslaviji.</p>
@@ -463,7 +470,7 @@
                   dekleta obiskovala klasično gimnazijo, kaj šele študirala in doktorirala. Zelo
                   pomembna je tudi njena simbolna vrednost, saj je bil njen doktorat prvi doktorat
                   iz kemije in sploh prvi doktorat na Univerzi v Ljubljani, naredila pa ga je
-                  ženska. Zato jo lahko štejemo za znanilko prihajajočih novih časov v katerih se
+                  ženska. Zato jo lahko štejemo za znanilko prihajajočih novih časov, v katerih se
                   ženske v družbi emancipirajo. Njen doktorat je pomembno, visokokakovostno delo,
                   vpeto v razvoj organske kemije tistega časa in tudi sicer v razvoj kemijske vede.
                   Bila je tudi znanilka »spin offov«, kot se danes to imenuje. Imela je možnost,
@@ -687,10 +694,7 @@
                   miselnosti.</quote>
             </cit>
             <figure xml:id="figure-34" rend="imageviewer">
-               <head>Jug se je leto po zaključku doktorata leta 1924 ponesrečil pri samostojnem
-                  vzponu na severni steni Triglava. Leta 1930 sta isto steno preplezala Milan
-                  Gostiša in Pavla Jesih ter našla mesto, kjer se je odkrušil kamen in povzročil
-                  smrtni padec. Mesto je na razglednici označeno z X. Vir: Raziskovalna postaja ZRC
+               <head>Razglednica. Vir: Raziskovalna postaja ZRC
                   SAZU Nova Gorica, Zapuščina Henrika Tume.</head>
                <graphic url="4_2a-normal.jpg"/>
             </figure>
@@ -763,12 +767,12 @@
                   there is will, there is a way..." These are some guidelines that reveal a lot
                   about his mindset.</quote>
             </cit>
-            <figure xml:id="figure-39" rend="imageviewer">
+            <figure xml:id="figure-39" rend="imageviewer"><!--
                <head>One year after the completion of his doctorate in 1924, Jug got killed during
                   an independent ascent on the northern wall of Triglav. In 1930, Milan Gostiša and
                   Pavla Jesih climbed the same wall and found the place where the rock had broken
                   off and caused the fatal fall. The location is marked with an X on the postcard.
-                  Source: ZRC SAZU Nova Gorica Research Station, Legacy of Henrik Tuma.</head>
+                  Source: ZRC SAZU Nova Gorica Research Station, Legacy of Henrik Tuma.</head>-->
                <graphic url="4_2a-normal.jpg"/>
             </figure>
             <figure xml:id="figure-40" rend="imageviewer">
@@ -857,7 +861,7 @@
             </figure>
             <cit>
                <bibl rend="bold">Lev Kreft, filozof</bibl>
-               <quote xml:id="p-49" style="text-align:justify;">Alma Sodnik je ena pr vih
+               <quote xml:id="p-49" style="text-align:justify;">Alma Sodnik je ena prvih
                   emancipiranih filozofinj ne samo v Sloveniji, ampak v svetu. Ostala je v globokem
                   spominu ne samo kot intelektualno vrhunska, ampak tudi kot človeško
                   imenitna.</quote>
@@ -992,7 +996,7 @@
             <head xml:id="head-66">FRAN ZWITTER, zgodovinar, dekan Filozofske fakultete in rektor
                Univerze v Ljubljani (1929) <lb/>Starejše kranjsko meščanstvo. Mentor: Milko Kos.
                Promocija: 13. november 1929</head>
-            <p xml:id="p-56" style="text-align:justify;">Od 1937 je predaval na Oddelku za
+            <p xml:id="p-56" style="text-align:justify;">Od leta 1937 je predaval na Oddelku za
                zgodovino. Med vojno je bil interniran v Aprico, nato se je pridružil partizanom,
                kjer je leta 1944 prevzel vodstvo Znanstvenega inštituta pri predsedstvu SNOS. Po
                vojni je bil do leta 1948 pri zunanjem ministrstvu v Beogradu izvedenec za mejna
@@ -1251,7 +1255,7 @@
                   eden najpomembnejših filozofov, ki jih imamo Slovenci. Študiral je pri znamenitih
                   profesorjih na Sorboni, na Dunaju in tudi pri prof. Vebru. Zaradi svojih stališč,
                   ki so bila v nasprotju z uradnimi stališči partije, je bil obsojen in je kazen
-                  prestajal na Golem otoku. Obsojeni so bili tudi štirje njegovih bratov, skupaj od
+                  prestajal na Golem otoku. Obsojeni so bili tudi štirje njegovi bratje, skupaj od
                   desetih otrok, kolikor jih je bilo v družini (devet bratov in ena sestra, cela
                   družina je bila partizanska). Zaradi svoje neizmerne pokončnosti in trmoglavosti
                   ter brezkompromisnega sledenja svojim načelom je bil na Golem otoku kar sedem let,
@@ -1360,7 +1364,7 @@
             <head xml:id="head-84">TINE (VALENTIN) LOGAR, jezikoslovec (1941) <lb/>Horjulski govor.
                Mentor: Fran Ramovš. Promocija: 13. junij 1941</head>
             <p xml:id="p-74" style="text-align:justify;">Zaradi sodelovanja z OF je bil med vojno
-               zaprt, prav tako pa tudi leta 1948 zaradi zaradi informbiroja. Svojo raziskovalno
+               zaprt, prav tako pa tudi leta 1948 zaradi informbiroja. Svojo raziskovalno
                kariero je leta 1947 začel najprej na Inštitutu za slovenski jezik SAZU, od leta 1958
                pa je svoje znanje podajal študentom Filozofske fakultete kot predavatelj za
                dialektologijo in zgodovinsko slovnico slovenskega jezika. Njegovo raziskovalno delo
@@ -1525,11 +1529,11 @@
                ustanovitelj Znanstvenega inštituta Filozofske fakultete (1959) <lb/>Ljubljanska baročna
                arhitektura. Mentor: France Stele. Promocija: 7. marec 1961</head>
             <p xml:id="p-78" style="text-align:justify;">Na Filozofski fakulteti je doktoriral leta
-               1960 s fokusom na baročni arhitekture v Ljubljani. Bil je eden izmed vodilnih
+               1960 s fokusom na baročni arhitekturi v Ljubljani. Bil je eden izmed vodilnih
                slovenskih konservatorjev in je zaslužen za prenovo Križank z Jožetom Plečnikom,
                železniške postaje z Markom Mušičem in drugih pomembnih stavb. Sprva je deloval kot
-               konservator v Mestnem muzeju Ljubljana, od leta 1962 pa je poučeval na na Oddelku za
-               zgodovino Filozofske fakultete, kjer je bil tudi dekan in ustanovitelj Znanstvenega
+               konservator v Mestnem muzeju Ljubljana, od leta 1962 pa je poučeval na Oddelku za
+               umetnostno zgodovino Filozofske fakultete, kjer je bil tudi dekan in ustanovitelj Znanstvenega
                inštituta Filozofske fakultete (ZIFF).</p>
             <figure xml:id="figure-81" rend="imageviewer">
                <head>Odločba o opravljenem zagovoru pred komisijo Franceta Steleta, Milka Kosa in
@@ -1575,7 +1579,7 @@
                   naštevanj, zlaganja datumov ali velikosti in oblik slik, ki smo jih obravnavali.
                   Šlo je za poezijo umetnostne zgodovine. Bil je eden največjih poznavalcev baroka.
                   Bil pa je tudi velik poznavalec in občudovalec našega največjega arhitekta Jožeta
-                  Plečnika. Na njegovo prošnjo sem prevzel funkcijo prodekana za študijske zadeva,
+                  Plečnika. Na njegovo prošnjo sem prevzel funkcijo prodekana za študijske zadeve,
                   čeprav sem bil sredi predstojniškega mandata. Takrat se je začelo najino
                   sodelovanje pri vodenju »šole«, kot je imenoval fakulteto. Zlasti sva sodelovala
                   pri utrjevanju pripadnosti »šoli« (fakulteti) in univerzi med sodelavci, česar se
@@ -1690,14 +1694,7 @@
             </figure>
             <cit>
                <bibl rend="bold">Alenka Pirjevec, hčerka</bibl>
-               <quote xml:id="p-87" style="text-align:justify;">Potem ko se je med vojno kot član
-                  KPS pridružil partizanom, je po vojni nadaljeval svoje že pred vojno začeto delo
-                  publicista in urednika. Po opravljenem doktoratu je postal profesor za svetovno
-                  književnost na oddelku za primerjalno književnost. Še vedno pa je ostajal urednik
-                  pomembnih revij in publicist. Raziskovalno se je že pred doktoratom posvetil
-                  slovenski moderni in Cankarju, kasneje pa se je usmeril zlasti v vprašanje romana
-                  in s tem povezane moderne literarne tokove. S svojim pedagoškim in raziskovalnim
-                  delom je pomembno oblikoval slovensko literarno vedo. Enkrat je rekel, da ga je
+               <quote xml:id="p-87" style="text-align:justify;">Enkrat je rekel, da ga je
                   resnica poklicala v partizane. Bil je nekaj posebnega, močna osebnost, radikalen,
                   principialen. Kot profesor je navduševal, študentje se ga spominjajo v
                   superlativih. Bil pa je tudi naporen oče in sem se morala upreti. Uspelo mi je, da
@@ -1775,14 +1772,7 @@
             </figure>
             <cit>
                <bibl rend="bold">Alenka Pirjevec, daughter</bibl>
-               <quote xml:id="p-94" style="text-align:justify;"> After joining the Partisans as a
-                  member of the CPS during the war, he continued his post-war work as a publicist
-                  and editor. After completing his Ph.D., he became Professor of World Literature at
-                  the Department of Comparative Literature. He also acted as an editor of major
-                  magazines, and as a publicist. Prior to his doctorate, he devoted his research
-                  work to Slovene Modernism and Cankar, focusing later specifically on the issue of
-                  the novel and related modern literary trends. Through his teaching and research
-                  work, he has significantly shaped the Slovenian literary field. He once said that
+               <quote xml:id="p-94" style="text-align:justify;">He once said that
                   the truth called him to the cause. He was something special, strong personality;
                   radical and principled. As a professor, he was impressive, and students remember
                   him in superlatives. He was also a difficult father whom I had to resist. I
@@ -1877,7 +1867,7 @@
             <cit>
                <bibl rend="bold">Bujar Dugolli, zgodovinar in dekan Filozofske fakultete Univerze v
                   Prištini</bibl>
-               <quote xml:id="p-103" style="text-align:justify;">S profesorjem Osamnijem fakulteta
+               <quote xml:id="p-103" style="text-align:justify;">S profesorjem Osmanijem fakulteta
                   dobro sodeluje. Njegove študije so bile zelo pomembne za sestavo programa
                   magistrskega študija arhivistike. Poleg tega je za nas zelo dragocen sodelavec,
                   tudi po upokojitvi. Kot doktorant Univerze v Ljubljani se je izkazal kot
@@ -2186,7 +2176,7 @@
                sociologinja in filozofinja je znanstvena svetnica na Inštitutu za kriminologijo pri
                Pravni fakulteti v Ljubljani, redna profesorica na Univerzi v Londonu in redna
                gostujoča predavateljica na drugih tujih univerzah. Je tudi vodja in članica več
-               raziskovalnih skupin tako doma kot tujini. Njeno raziskovalno delo je naravnano
+               raziskovalnih skupin tako doma kot v tujini. Njeno raziskovalno delo je naravnano
                izrazito interdisciplinarno, saj medsebojno prepleta kulturologijo in kriminalogijo
                ter psihoanalizo in filozofijo. V zadnjem obdobju je predmet njenega raziskovanja
                veza med pravom, nevroznanostjo in genetiko.</p>
@@ -2197,7 +2187,7 @@
                izmislim raziskovalni problem. Doktorat sem v predelani obliki tudi objavila v
                angleški knjigi, kar mi je še odprlo nova obzorja.</p>
             <figure xml:id="figure-112" rend="imageviewer">
-               <head>Renata Salecel v pisarni na Inštitutu za kriminologijo pri Pravni fakulteti v
+               <head>Renata Salecl v pisarni na Inštitutu za kriminologijo pri Pravni fakulteti v
                   Ljubljani.</head>
                <graphic url="13_1-normal.jpg"/>
             </figure>
@@ -2209,7 +2199,7 @@
                   V teh delih svoje zgodnje zanimanje za teoretsko psihoanalizo Lacanovske smeri
                   poveže z analizo novih oblik ideologije in nadzora, ki jih prinaša genetika,
                   nevroznanost in druge “trde” znanosti, v novešjem času podatkovne znanosti. Na
-                  svojsten način skozi prizmo Lacanovse psihoanalize opazuje spremembe in
+                  svojsten način skozi prizmo Lacanovske psihoanalize opazuje spremembe in
                   interakcijo, ki nastaja v družbi in v posamezniku na eni strani in sodobnim
                   tehnološkim napredkom na drugi strani: kako posameznik postane subjekt, kako se
                   sooča s tesnobo in (ne)vednostjo, v razmerah hitrega tehnološkega
@@ -2526,7 +2516,7 @@
                zgodovini filozofije zadnji metafizik (v filozofiji se reče metafizika od Platona do
                Hegla), je tu absolutno ključna referenca. Hkrati je prvi postmetafizični filozof, ki
                stoji natančno na tem prelomu.<lb/><lb/>To je prelom, ki ga je treba vsakič znova
-               premisliti. Miselna orodja, ki nam jih je je dal francoski strukturalizem, znotraj
+               premisliti. Miselna orodja, ki nam jih je dal francoski strukturalizem, znotraj
                njega pa psihoanaliza, Lacan, so tista, ki so omogočila vnovično reaktivacijo te
                heglovske dediščine. To je bil zastavek mojega doktorata. Doktorat je v letih 1991 in
                1992 izšel v dveh knjigah, leta 2017 sta bili obe knjigi ponatisnjeni v enem zvezku z
