@@ -7,7 +7,7 @@
             <title xml:lang="en">Doctorates: 100 years. A sharp and necessary instrument of society
             </title>
             <respStmt>
-               <resp>Avtorji razstave</resp>
+               <resp>Avtorji razstave / Authors</resp>
                <name>dr. Božo Repe</name>
                <name>dr. Božidar Flajšman</name>
                <name>mag. Barbara Šatej</name>
@@ -16,15 +16,15 @@
                <name>dr. Kornelija Ajlec</name>
             </respStmt>
             <respStmt>
-               <resp>Avtor fotografij (če ni drugače nakazano)</resp>
+               <resp>Avtor fotografij (če ni drugače nakazano) / Photo authors</resp>
                <name>dr. Božidar Flajšman</name>
             </respStmt>
             <respStmt>
-               <resp>Lektorica</resp>
+               <resp>Lektorica / Proofreading</resp>
                <name>Aleksandra Repe</name>
             </respStmt>
             <respStmt>
-               <resp>Prevod</resp>
+               <resp>Prevod / Translation</resp>
                <name>Furocat d.o.o.</name>
             </respStmt>
             <respStmt>
@@ -32,7 +32,7 @@
                <name>Prima produkcija, Gorazd Krumpak s.p.</name>
             </respStmt>
             <respStmt>
-               <resp>TEI kodiranje in HTML postavitev</resp>
+               <resp>TEI kodiranje in HTML postavitev / TEI and HTML encoding</resp>
                <name>Mihael Ojsteršek</name>
             </respStmt>
             <funder>Razstava je nastala v okviru nacionalnega raziskovalnega programa Slovenska
@@ -102,7 +102,7 @@
             </docTitle>
             <docAuthor/>
             <graphic url="1_1-normal.jpg"/>
-            <graphic url="Znak.jpg"/>
+            <graphic url="SZ_logo.png"/>
             <docDate/>
             <docImprint>
                <publisher>Inštitut za novejšo zgodovino / Institute of Contemporary
@@ -767,12 +767,9 @@
                   there is will, there is a way..." These are some guidelines that reveal a lot
                   about his mindset.</quote>
             </cit>
-            <figure xml:id="figure-39" rend="imageviewer"><!--
-               <head>One year after the completion of his doctorate in 1924, Jug got killed during
-                  an independent ascent on the northern wall of Triglav. In 1930, Milan Gostiša and
-                  Pavla Jesih climbed the same wall and found the place where the rock had broken
-                  off and caused the fatal fall. The location is marked with an X on the postcard.
-                  Source: ZRC SAZU Nova Gorica Research Station, Legacy of Henrik Tuma.</head>-->
+            <figure xml:id="figure-39" rend="imageviewer">
+               <head>Postcard.
+                  Source: ZRC SAZU Nova Gorica Research Station, Legacy of Henrik Tuma.</head>
                <graphic url="4_2a-normal.jpg"/>
             </figure>
             <figure xml:id="figure-40" rend="imageviewer">
@@ -1044,7 +1041,7 @@
                   med letoma 1900 in 1918, ki sem jo opravil pred kratkim. Tu se lepo pokaže, da so
                   bila tedanja pričakovanja glede doktorske disertacije precej podobna temu, kar
                   danes pričakujemo od magistrskih del bolonjskega študija. Velika količina novih
-                  rezultatov in dobra konstektualizacija s tujo literaturo je bilo samo nekaj, kar
+                  rezultatov in dobra kontekstualizacija s tujo literaturo je bilo samo nekaj, kar
                   je bilo zaželeno, ne pa nekaj, kar je bilo obvezno v doktorskih disertacijah
                   tistega časa. Pri dedu pa je to vsekakor močno razvito.</quote>
             </cit>
